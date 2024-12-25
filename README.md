@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 # Beauty Product Landing Page
 
-A sleek, responsive, and minimal landing page for showcasing beauty products, built with **React.js** and styled using the **shadcn UI** component library. This project features smooth animations powered by **Framer Motion**, elegant design, and seamless navigation with section effects for an engaging user experience across all devices.
+A sleek, responsive, and minimal landing page for showcasing beauty products, built with **Typescript** and styled using the **shadcn UI** component library. This project features smooth animations powered by **Framer Motion**, elegant design, and seamless navigation with section effects for an engaging user experience across all devices.
 
 ---
 

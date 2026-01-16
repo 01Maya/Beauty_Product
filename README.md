@@ -53,9 +53,6 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-
 
 ## Screenshot
 ![beauty product](https://github.com/user-attachments/assets/e2266253-dde0-467f-a1d7-1f834264a3ac)

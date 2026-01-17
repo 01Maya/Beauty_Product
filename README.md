@@ -50,3 +50,6 @@ bun dev
 
 ## Screenshot
 ![beauty product](https://github.com/user-attachments/assets/e2266253-dde0-467f-a1d7-1f834264a3ac)
+
+
+---

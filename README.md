@@ -14,7 +14,7 @@ A sleek, responsive, and minimal landing page for showcasing beauty products, bu
 
 ---
 
-## Tech Stack
+## Tech Stack 🗂️
 
 - **React.js:** For building the user interface.
 - **shadcn UI:** For pre-built, customizable components.

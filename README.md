@@ -31,7 +31,7 @@ Ensure you have the following installed:
 - **npm**, **yarn**, **pnpm**, or **bun**
 
 
-## Getting Started
+## Getting Started ⚙️
 
 First, run the development server:
 

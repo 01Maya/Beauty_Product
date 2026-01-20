@@ -23,7 +23,7 @@ A sleek, responsive, and minimal landing page for showcasing beauty products, bu
 
 ---
 
-## Getting Started
+## Getting Started 🔧
 
 ### Prerequisites
 Ensure you have the following installed:

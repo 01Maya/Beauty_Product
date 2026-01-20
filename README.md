@@ -1,5 +1,5 @@
 
-# Beauty Product Landing Page
+# Beauty Product Landing Page 🌟
 
 A sleek, responsive, and minimal landing page for showcasing beauty products, built with **Typescript** and styled using the **shadcn UI** component library. This project features smooth animations powered by **Framer Motion**, elegant design, and seamless navigation with section effects for an engaging user experience across all devices.
 

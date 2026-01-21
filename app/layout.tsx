@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Beauty Product App",
-  description: "A sleek, responsive, and minimal landing page for showcasing beauty products.",
+  description: "A sleek, responsive, and minimal landing page for showcasing beauty products🌟",
 };
 
 export default function RootLayout({

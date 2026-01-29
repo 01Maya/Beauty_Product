@@ -1,3 +1,4 @@
+---
 
 # Beauty Product Landing Page 🌟
 

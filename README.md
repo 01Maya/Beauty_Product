@@ -6,7 +6,7 @@ A sleek, responsive, and minimal landing page for showcasing beauty products, bu
 
 ---
 
-## Features 💎
+## 🌸 Features 💎
 
 - **Responsive Design:** Optimized for desktops, tablets, and mobile devices.
 - **Minimal and Elegant UI:** Focused on simplicity and aesthetics, highlighting beauty products effectively.
